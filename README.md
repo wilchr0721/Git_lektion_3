@@ -10,3 +10,5 @@ This is for learning.
 
 mutula destrution is assured.
 
+traduntation trumanism aspeniktivtet
+
