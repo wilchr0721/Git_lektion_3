@@ -8,9 +8,5 @@ This is a small Python program that prints Pascal's triangle.
 
 This is for learning.
 
-sdfgsdfgdf
-dfgdfgdfg
-dfg
-dfg
-dfg
-dfgdf
+mutula destrution is assured.
+
