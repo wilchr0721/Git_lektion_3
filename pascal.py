@@ -1,6 +1,6 @@
 from math import sqrt, log10, floor, pi
 from sys import argv
-
+# python är skit.
 
 def pascal_triangle(n: int) -> None:
     """Prints a pascal triangle with n rows."""
